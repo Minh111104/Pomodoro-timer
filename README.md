@@ -11,5 +11,13 @@ This is a "Pomodoro Timer" built using Python and Tkinter. The Pomodoro Techniqu
 
 **Files**
 
-- 'pomodoro_timer.py': The main script containing the logic for the Pomodoro timer.
-- 'tomato.png': Image used as the background for the timer display.
+- _'pomodoro_timer.py'_: The main script containing the logic for the Pomodoro timer.
+- _'tomato.png'_: Image used as the background for the timer display.
+
+**Pomodoro Timer Logic**
+
+- **Work Sessions**: The timer is set to 25 minutes (default) for work.
+- **Breaks**: After each work session, a short break of 5 minutes is initiated. After 4 work sessions, a long break of 20 minutes is taken.
+- **Countdown Timer**: The countdown mechanism reduces time by seconds and updates the UI every second.
+- **Reset**: You can reset the timer at any time using the reset button, which will stop the current timer and reset the progress.
+- **Visual Feedback**: Checkmarks (✔) are added to the screen to track completed work sessions.
