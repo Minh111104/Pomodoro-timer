@@ -11,8 +11,8 @@ This is a "Pomodoro Timer" built using Python and Tkinter. The Pomodoro Techniqu
 
 ## Files
 
-- _'pomodoro_timer.py'_: The main script containing the logic for the Pomodoro timer.
-- _'tomato.png'_: Image used as the background for the timer display.
+- `pomodoro_timer.py`: The main script containing the logic for the Pomodoro timer.
+- `tomato.png`: Image used as the background for the timer display.
 
 ## Pomodoro Timer Logic
 
