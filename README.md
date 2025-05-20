@@ -21,3 +21,7 @@ This is a "Pomodoro Timer" built using Python and Tkinter. The Pomodoro Techniqu
 - **Countdown Timer**: The countdown mechanism reduces time by seconds and updates the UI every second.
 - **Reset**: You can reset the timer at any time using the reset button, which will stop the current timer and reset the progress.
 - **Visual Feedback**: Checkmarks (✔) are added to the screen to track completed work sessions.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
