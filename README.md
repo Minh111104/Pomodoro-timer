@@ -24,4 +24,4 @@ This is a "Pomodoro Timer" built using Python and Tkinter. The Pomodoro Techniqu
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is created for educational purpose.
