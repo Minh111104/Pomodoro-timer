@@ -20,7 +20,7 @@ This is a "Pomodoro Timer" built using Python and Tkinter. The Pomodoro Techniqu
 - **Breaks**: After each work session, a short break of 5 minutes is initiated. After 4 work sessions, a long break of 20 minutes is taken.
 - **Countdown Timer**: The countdown mechanism reduces time by seconds and updates the UI every second.
 - **Reset**: You can reset the timer at any time using the reset button, which will stop the current timer and reset the progress.
-- **Visual Feedback**: Checkmarks (✔) are added to the screen to track completed work sessions.
+- **Visual Feedback**: Checkmarks are added to the screen to track completed work sessions.
 
 ## License
 
